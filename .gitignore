@@ -1,0 +1,17 @@
+# Database setup files
+setup.sql
+seed.php
+fix_db.php
+
+# PHP/Web Server logs
+*.log
+error_log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
